@@ -1,0 +1,67 @@
+JOHN MADDEN — LOADOUT COMPLETO
+
+PARTE DE CIMA — JerseyStyle
+Principal:
+CoachWardrobe_maddenJohn_warm1_top
+
+Alternativas:
+CoachWardrobe_maddenJohn_warm2_top
+CoachWardrobe_maddenJohn_cold1_top
+CoachWardrobe_maddenJohn_cold2_top
+
+CALÇA — LegsBase
+Principal:
+CoachWardrobe_maddenJohn_warm1_pants
+
+Alternativas:
+CoachWardrobe_maddenJohn_warm2_pants
+CoachWardrobe_maddenJohn_cold1_pants
+CoachWardrobe_maddenJohn_cold2_pants
+
+CALÇADO — Footwear
+Principal:
+CoachWardrobe_maddenJohn_warm1_shoe
+
+Alternativa:
+CoachWardrobe_maddenJohn_warm2_shoe
+
+RELÓGIO — Wrist
+GearWrist_maddenJohn_watch
+
+ANEL — Hand
+GearHand_maddenJohn_ring
+
+BONÉ
+Nenhum asset específico do John Madden encontrado.
+
+HEADSET
+Nenhum asset específico do John Madden encontrado.
+
+CLIMA RUIM
+Nenhum asset específico do John Madden encontrado.
+
+CONFIGURAÇÃO RECOMENDADA PARA O PRIMEIRO TESTE
+
+JerseyStyle:
+CoachWardrobe_maddenJohn_warm1_top
+
+LegsBase:
+CoachWardrobe_maddenJohn_warm1_pants
+
+Footwear:
+CoachWardrobe_maddenJohn_warm1_shoe
+
+Wrist:
+GearWrist_maddenJohn_watch
+
+Hand:
+GearHand_maddenJohn_ring
+
+Boné:
+NENHUM
+
+Headset:
+NENHUM
+
+Clima ruim:
+NENHUM
